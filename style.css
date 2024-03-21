@@ -1,0 +1,60 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+  }
+  
+  .perroquet1,.perroquet2,.perroquet3 {
+    width: 33%;
+    /* height: 150px; */
+    position: relative;
+    text-align: center;
+
+  }
+  
+  .plumes1,.plumes2, .plumes3 {
+    width: 100%;
+    background-color: none;
+    font-size: 60px;
+    margin: 20px auto 0;
+  }
+  
+  .text-box {
+    margin-top: 10px;
+  }
+
+  .text-box p{
+    font-size: 55px;
+    font-weight: bold;
+  }
+
+
+
+  button{
+    font-size: 55px;
+  }
+
+  .ImgJaune{
+    width: 250px;
+  }
+  
+  input {
+    width: 120px;
+    margin: 5px;
+    font-size: 55px;
+
+  }
+  
+  button {
+    margin: 5px;
+  }
+  .green {
+    background-color: green;
+  }
+  .yellow {
+    background-color: #C7E63B;
+  }
+  .blue {
+    background-color: blue;
+  }
+  
